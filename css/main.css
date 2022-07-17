@@ -204,17 +204,17 @@ button:hover {
 
 @media screen and (min-width: 1440px) {
     /* desktop styles here */
+    
     .review-container {
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 100vh;
         background-image: url("../images/pattern-bg.svg"),
            url("../images/pattern-curve.svg"), url("../images/pattern-quotes.svg");
         background-repeat: no-repeat;
         background-size: 680px, 610px, 120px;
-        background-position: top 46% left 95%, bottom 0 left 0, top 35% left 23%;
-        max-width: 100rem;
+        background-position: top 16% left 95%, bottom 0 left 0, top 24% left 28%;
+        max-width: 90rem;
     }
 
     .review-items {
@@ -227,16 +227,18 @@ button:hover {
 
     .bootcamper-image {
         position: relative;
-        bottom: 40px;
-        left: 180px;
+        top: 60px;
+        left: 50px;
         width: 540px;
         box-shadow: 5px 5px 20px hsl(240, 18%, 77%);
     }
 
     .review-description {
         position: relative;
-        left: -70px;
-        bottom: 50px;
+        left: -460px;
+        bottom: 390px;
+        width: 635px;
+        text-align: left;
     }
 
     .testimonial {
@@ -250,18 +252,6 @@ button:hover {
     .job-position {
         font-size: 1.25rem;
         display: inline-block;
-    }
-
-    .review-items .review-description{
-        width: 410px;
-    }
-
-    .review-items .bootcamper-image {
-        position: relative;
-        bottom: 40px;
-        left: 130px;
-        width: 540px;
-        box-shadow: 5px 5px 20px hsl(240, 18%, 77%);
     }
 
     .name-2,
@@ -288,7 +278,7 @@ button:hover {
         background-color: white;
         border-radius: 50% 0 0% 50%;
         position: absolute;
-        top: 67%;
+        top: 60%;
         left: 59%;
     }
       
@@ -296,7 +286,7 @@ button:hover {
         background-color: white;
         border-radius: 0 50% 50% 0;
         position: absolute;
-        top: 67%;
+        top: 60%;
         left: 62%;
     }
 
