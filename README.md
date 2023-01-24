@@ -6,6 +6,7 @@ This is a solution to the [Coding bootcamp testimonials slider challenge on Fron
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,6 +25,9 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - Navigate the slider using either their mouse/trackpad or keyboard
 
+### Screenshot
+
+![](./images/screenshot-coding-bootcamp%20-testimonials-slider.png)
 
 ### Links
 

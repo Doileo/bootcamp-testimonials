@@ -39,7 +39,7 @@ body {
     position: relative;
 }
 
-* make images easier to work with */
+/* make images easier to work with */
 img {
     max-width: 100%;
     display: block;
